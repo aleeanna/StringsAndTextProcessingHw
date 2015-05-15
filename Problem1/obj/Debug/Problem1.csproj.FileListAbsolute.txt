@@ -1,0 +1,6 @@
+c:\users\ibm_admin\documents\visual studio 2013\Projects\StringsAndTextProcessingHw\Problem1\bin\Debug\Problem1.exe.config
+c:\users\ibm_admin\documents\visual studio 2013\Projects\StringsAndTextProcessingHw\Problem1\bin\Debug\Problem1.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\StringsAndTextProcessingHw\Problem1\bin\Debug\Problem1.pdb
+c:\users\ibm_admin\documents\visual studio 2013\Projects\StringsAndTextProcessingHw\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2013\Projects\StringsAndTextProcessingHw\Problem1\obj\Debug\Problem1.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\StringsAndTextProcessingHw\Problem1\obj\Debug\Problem1.pdb

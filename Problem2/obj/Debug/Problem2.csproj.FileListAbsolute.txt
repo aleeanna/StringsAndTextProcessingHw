@@ -1,0 +1,5 @@
+c:\users\ibm_admin\documents\visual studio 2013\Projects\StringsAndTextProcessingHw\Problem2\bin\Debug\Problem2.exe.config
+c:\users\ibm_admin\documents\visual studio 2013\Projects\StringsAndTextProcessingHw\Problem2\bin\Debug\Problem2.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\StringsAndTextProcessingHw\Problem2\bin\Debug\Problem2.pdb
+c:\users\ibm_admin\documents\visual studio 2013\Projects\StringsAndTextProcessingHw\Problem2\obj\Debug\Problem2.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\StringsAndTextProcessingHw\Problem2\obj\Debug\Problem2.pdb
